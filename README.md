@@ -48,7 +48,7 @@ production-planning-optimization/
 ---
 
 ## Dataset
-Synthetically generation of data using Python to simulate real production orders.
+Synthetically generated data using Python to simulate real production orders.
 
 Each order contains:
 - `order_id` → Unique identifier  
