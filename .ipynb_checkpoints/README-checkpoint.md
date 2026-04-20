@@ -43,20 +43,7 @@ production-planning-optimization/
 │
 ├── main.py
 ├── requirements.txt
-└── README.mdproduction-planning-optimization/
-│
-├── data/
-│ └── orders.csv
-│
-├── src/
-│ ├── data_generation.py
-│ ├── prioritization.py
-│ ├── deviation_detection.py
-│
-├── main.py
-├── requirements.txt
 └── README.md
-
 
 ---
 
